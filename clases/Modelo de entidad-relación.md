@@ -58,3 +58,5 @@ La relación **es_un** se usa para determinar que una entidad es *subentidad* de
 Es una abstracción en la cual una interrelación (junto con sus entidades vinculadas) es tratada como una entidad de alto nivel y por lo tanto, puede participar de interrelaciones.
 Si estamos tratando de modelar algo en una relación ternaria necesitamos que siempre estén los 3 elementos de la terna presentes, no podemos definir una terna donde uno falte. En ese caso, podemos hacer una agregación separando al elemento que puede ser nulo y juntando a los otros dos en una agregación.
 Ahora sí podemos definir una relación binaria entre la agregación y la entidad que puede no estar (marcándola como opcional/parcial).
+
+Ejemplo: Docente, Materia, Encuesta. La agregación formada por Docente y Materia permite modelar el hecho de que podría existir un par Docente-Materia sin una encuesta. 

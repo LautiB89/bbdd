@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e95c19f899ef9f8b",
+        "id": "717f10df42a3bab4",
         "type": "tabs",
+        "dimension": 41.42045454545455,
         "children": [
           {
-            "id": "8135e00840bfbd60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clases/Modelo de entidad-relación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelo de entidad-relación"
-            }
-          },
-          {
-            "id": "eeab8227bcef8cde",
+            "id": "511f1f7ba29d49d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +21,40 @@
               "icon": "lucide-file",
               "title": "Modelo relacional"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6f874b87bad8ab25",
+        "type": "tabs",
+        "dimension": 58.57954545454545,
+        "children": [
           {
-            "id": "0c1fa1a2669dcb57",
+            "id": "85b8c4509b0e9cb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "prácticas/Práctica 1.md",
-                "mode": "source",
-                "source": false
+                "file": "contenido/2025-08-29/ModeloRelacional.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Práctica 1"
+              "icon": "lucide-file-text",
+              "title": "ModeloRelacional"
+            }
+          },
+          {
+            "id": "a7bec2c9368aa5cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "guias/01-modelizacion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01-modelizacion"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,16 +173,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "guias/01-modelizacion.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01-modelizacion"
             }
           },
           {
-            "id": "a3e3cdc792941b05",
+            "id": "4daf4cd199a41efd",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -204,18 +209,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c1fa1a2669dcb57",
+  "active": "a7bec2c9368aa5cf",
   "lastOpenFiles": [
+    "contenido/2025-08-29/ModeloRelacional.pdf",
+    "guias/01-modelizacion.pdf",
     "clases/Modelo relacional.md",
-    "clases/Modelo de entidad-relación.md",
+    "contenido/2025-08-29/Restaurante_solución_1.pdf",
     "prácticas/Práctica 1.md",
-    "README.md",
-    "prácticas",
+    "guias/03-normalizacion.pdf",
+    "guias/02-lenguajes.pdf",
+    "clases/Modelo de entidad-relación.md",
+    "contenido/2025-08-22/EjerciciosDebateDERAfirmaciones.pdf",
+    "contenido/2025-08-22/ErroresComunesYEjercicios.pdf",
+    "guias/PracticaNormalizacion.pdf",
+    "guias/PracticaModelizacion.pdf",
+    "guias/PracticaLenguajes.pdf",
     "clases/Trampa del abanico.md",
     "clases/Taller integrador.md",
+    "README.md",
     "Índice - Base de Datos.md"
   ]
 }

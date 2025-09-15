@@ -1,4 +1,4 @@
-4> No hay entidades en el modelo relacional, son todas relaciones y dominios. Por eso el énfasis en llamar *interrelaciones* a las del [[Modelo de entidad-relación]]. 
+> No hay entidades en el modelo relacional, son todas relaciones y dominios. Por eso el énfasis en llamar *interrelaciones* a las del [[Modelo de entidad-relación]]. 
 
 ## Definiciones
 Una relación puede pensarse como una tabla con filas y columnas.
