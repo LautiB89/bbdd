@@ -4,57 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "717f10df42a3bab4",
+        "id": "d5b5e8e31887d212",
         "type": "tabs",
-        "dimension": 41.42045454545455,
+        "dimension": 55.38379530916845,
         "children": [
           {
-            "id": "511f1f7ba29d49d6",
+            "id": "6fa22f2b92d407c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "clases/Modelo relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "guias/03-normalizacion.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Modelo relacional"
+              "icon": "lucide-file-text",
+              "title": "03-normalizacion"
             }
           }
         ]
       },
       {
-        "id": "6f874b87bad8ab25",
+        "id": "de81a3aaca7c3668",
         "type": "tabs",
-        "dimension": 58.57954545454545,
+        "dimension": 44.61620469083156,
         "children": [
           {
-            "id": "85b8c4509b0e9cb8",
+            "id": "a260009fe4205e01",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "contenido/2025-08-29/ModeloRelacional.pdf"
+                "file": "contenido/2025-09-05/3FN_COBMIN.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ModeloRelacional"
-            }
-          },
-          {
-            "id": "a7bec2c9368aa5cf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "guias/01-modelizacion.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01-modelizacion"
+              "title": "3FN_COBMIN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53de1b36c08bf9b3",
@@ -188,8 +174,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -213,21 +199,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7bec2c9368aa5cf",
+  "active": "a260009fe4205e01",
   "lastOpenFiles": [
+    "guias/03-normalizacion.pdf",
+    "contenido/2025-09-05/3FN_COBMIN.pdf",
+    "contenido/2025-09-05/FNBC.pdf",
+    "contenido/2025-09-05/AR-CRT- 1c2025.pdf",
+    "guias/02-lenguajes.pdf",
+    "clases/Modelo relacional.md",
     "contenido/2025-08-29/ModeloRelacional.pdf",
     "guias/01-modelizacion.pdf",
-    "clases/Modelo relacional.md",
     "contenido/2025-08-29/Restaurante_solución_1.pdf",
     "prácticas/Práctica 1.md",
-    "guias/03-normalizacion.pdf",
-    "guias/02-lenguajes.pdf",
     "clases/Modelo de entidad-relación.md",
     "contenido/2025-08-22/EjerciciosDebateDERAfirmaciones.pdf",
     "contenido/2025-08-22/ErroresComunesYEjercicios.pdf",
     "guias/PracticaNormalizacion.pdf",
-    "guias/PracticaModelizacion.pdf",
-    "guias/PracticaLenguajes.pdf",
     "clases/Trampa del abanico.md",
     "clases/Taller integrador.md",
     "README.md",
